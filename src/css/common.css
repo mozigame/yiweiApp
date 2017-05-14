@@ -1,0 +1,168 @@
+@charset "UTF-8";
+
+body {
+    font-family:Helvetica;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.p-l-5 {
+    padding-left: 5px;
+}
+
+.p-l-10 {
+    padding-left: 10px;
+}
+
+.p-r-5 {
+    padding-right: 5px;
+}
+
+.p-r-10 {
+    padding-right: 10px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.m-l-5 {
+    margin-left: 5px;
+}
+
+.m-l-10 {
+    margin-left: 10px;
+}
+
+.m-r-5 {
+    margin-right: 5px;
+}
+
+.m-r-10 {
+    margin-right: 10px;
+}
+
+.m-t-5 {
+    margin-top: 5px;
+}
+
+.m-t-10 {
+    margin-top: 10px;
+}
+.m-t-11 {
+    margin-top: 11px;
+}
+.m-t-12 {
+    margin-top: 12px;
+}
+
+.m-t-15 {
+    margin-top: 15px;
+}
+
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.m-b-15 {
+    margin-bottom: 15px;
+}
+
+.p-r {
+    position: relative;
+}
+
+.p-a {
+    position: absolute;
+}
+
+.p-f {
+    position: fixed;
+}
+
+.t-c {
+    text-align: center;
+}
+
+.o-f-h {
+    overflow: hidden;
+}
+
+.f-9 {
+    font-size: 9px;
+}
+
+.f-10 {
+    font-size: 10px;
+}
+
+.f-11 {
+    font-size: 11px;
+}
+
+.f-12 {
+    font-size: 12px;
+}
+
+.f-13 {
+    font-size: 13px;
+}
+
+.f-14 {
+    font-size: 14px;
+}
+
+.f-15 {
+    font-size: 15px;
+}
+
+.f-16 {
+    font-size: 16px;
+}
+
+.f-18 {
+    font-size: 18px;
+}
+
+.f-20 {
+    font-size: 20px;
+}
+
+.f-23 {
+    font-size: 23px;
+}
+
+.f-24 {
+    font-size: 24px;
+}
+
+.mint-msgbox-btn {
+    font-size: 16px;
+}
+
+.iScrollVerticalScrollbar {
+    width: 6px !important;
+}
+
+.mint-header{
+    background-color: rgb(238, 80, 63);
+}
+
+.grag-color{
+    color: rgb(186, 186, 186);
+}
+
+.mint-popup-bottom{
+    width: 100%;
+}
+
+.picker-toolbar {
+    border-bottom: 1px solid #eaeaea;
+}
+
+.grag-128{
+    color: rgb(128, 128, 128);
+}
